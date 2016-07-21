@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="wugai" size="1.000000 0.974609" />
+    <ImageTarget name="chuan1" size="1.000000 1.000000" />
+    <ImageTarget name="chuang" size="1.000000 0.830769" />
+    <ImageTarget name="shafa" size="1.000000 0.733000" />
     <ImageTarget name="u3" size="0.700000 0.685000" />
-    <ImageTarget name="u2" size="0.730000 0.478706" />
     <ImageTarget name="u1" size="0.230000 0.218103" />
   </Tracking>
 </QCARConfig>

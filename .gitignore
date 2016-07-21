@@ -9,6 +9,7 @@ obj/
 *.suo
 /*.sln
 *.user
+*.apk
 *.unityproj
 *.booproj
 .DS_Store
